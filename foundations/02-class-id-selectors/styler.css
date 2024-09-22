@@ -1,0 +1,23 @@
+
+.alert-text,
+.read
+{
+ font-family: Verdana, DejaVu sans, Tahoma, sans-serif;
+ background-color:rgba(236, 94, 94, 0.5)
+}
+
+#title {
+    color: blue;
+    font-size: 24px;
+}
+
+.read {
+    font-size: 24px;
+}
+
+#unread {
+font-size: 24px;
+font-weight: bold;
+ background-color:rgba(55, 215, 55, 0.5);
+
+}
